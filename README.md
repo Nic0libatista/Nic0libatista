@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Nic0libatista
-.
+hii :) 
+i'm just a techonology student with some projects.
+
 
 <!---
 Nic0libatista/Nic0libatista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
