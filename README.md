@@ -8,8 +8,10 @@ About Me <br>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nic0libatista&layout=compact&theme=dracula)
 
+<!---
 contact <br>
 LinkedIn: linkedin.com/in/nicoli-batista
+--->
 
 
 <!---
