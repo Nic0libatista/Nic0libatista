@@ -7,6 +7,9 @@ About Me <br>
 🎓 IT Technician Student <br>
 🎓 Web Designer <br>
 🎓 Computer Maintenance <br>
+
+Languages <br>
+🎓 fluent Portuguese
 🎓 Intermediate English
 
 ## My skils
