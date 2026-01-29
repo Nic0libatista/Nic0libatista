@@ -20,6 +20,7 @@ Languages <br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nic0libatista&hide=html&layout=compact&theme=radical&cache=123)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 contact <br>
 LinkedIn: linkedin.com/in/nicoli-batista
